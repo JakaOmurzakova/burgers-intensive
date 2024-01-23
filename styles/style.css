@@ -150,7 +150,7 @@ body {
 
 .main-image {
     position: absolute;
-    top: -12px;
+    top: -123px;
     left: calc(100% - 991px);
 }
 
@@ -180,7 +180,7 @@ body {
 }
 
 .why-item-text {
-    font-size: 10px;
+    font-size: 16px;
     line-height: 140%;
 }
 
